@@ -9,21 +9,21 @@ getInstallerConfig()
   })
 
 function getInstallerConfig () {
-  console.log('Creating windows installer')
+  console.log('------Creating windows installer------')
   const rootPath = path.join('./')
   const outPath = path.join(rootPath, 'release-builds')
 
   return Promise.resolve({
     appDirectory: path.join(rootPath, 'Kiwi-win32-x64'),
     authors: 'Kiwi Network',
-    version: process.env.CHIA_INSTALLER_VERSION,
+    version: process.env.KIWI_INSTALLER_VERSION,
     noMsi: true,
     iconUrl: 'https://raw.githubusercontent.com/kiwihealthcare-network/kiwi-blockchain/master/electron-react/src/assets/img/chia.ico',
     outputDirectory: path.join(outPath, 'windows-installer'),
     certificateFile: 'win_code_sign_cert.p12',
     certificatePassword: process.env.WIN_CODE_SIGN_PASS,
     exe: 'Kiwi.exe',
-    setupExe: 'KiwiSetup-' + process.env.CHIA_INSTALLER_VERSION + '.exe',
+    setupExe: 'KiwiSetup-' + process.env.KIWI_INSTALLER_VERSION + '.exe',
     setupIcon: path.join(rootPath, 'src', 'assets', 'img', 'chia.ico')
   })
 }
