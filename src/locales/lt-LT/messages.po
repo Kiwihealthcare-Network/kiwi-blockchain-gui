@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "*Norite sužinoti apie Silicion blokus daugiau? Aplankykite <0>Silicion Explorer</0> sukurta atviro kodo kūrėjo."
+msgstr "*Norite sužinoti apie Kiwi blokus daugiau? Aplankykite <0>Kiwi Explorer</0> sukurta atviro kodo kūrėjo."
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Harvesteris yra paslauga veikianti kompiuteryje kuriama plotas(ai) yra i
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
 msgid "About Chia Blockchain"
-msgstr "Apie Silicion Blockchain"
+msgstr "Apie Kiwi Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"

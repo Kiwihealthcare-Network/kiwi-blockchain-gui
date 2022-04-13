@@ -70,7 +70,7 @@ const Spacer = styled.div`
   margin-bottom: 1rem;
 `;
 
-const url = 'https://www.kiwi.cc';
+const url = 'https://kiwihealthcare.network/';
 
 type Props = {
   version: string;

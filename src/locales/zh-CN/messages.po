@@ -45,7 +45,7 @@ msgstr "收割机是一个在存有农田文件的机器上运行的服务。农
 #: src/electron/main.tsx:446
 #: src/electron/main.tsx:533
 msgid "About Chia Blockchain"
-msgstr "关于Silicion区块链项目"
+msgstr "关于Kiwi区块链项目"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"

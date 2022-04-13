@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "*チアのブロックをさらに調べたいですか？オープンソース開発者に提供していただいた <0>Silicion Explorer</0> を是非ご覧ください。"
+msgstr "*チアのブロックをさらに調べたいですか？オープンソース開発者に提供していただいた <0>Kiwi Explorer</0> を是非ご覧ください。"
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"

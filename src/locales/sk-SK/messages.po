@@ -24,7 +24,7 @@ msgstr "(voliteľné)"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "* Chcete viac preskúmať Silicion bloky? Vyskúšajte aplikáciu <0>Silicion Explorer</0> vytvorenú open source vývojárom."
+msgstr "* Chcete viac preskúmať Kiwi bloky? Vyskúšajte aplikáciu <0>Kiwi Explorer</0> vytvorenú open source vývojárom."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Kombajn je služba bežiaca na stroji, kde sú uložené polia. Farmár 
 #: src/electron/main.tsx:446
 #: src/electron/main.tsx:533
 msgid "About Chia Blockchain"
-msgstr "O Silicion blockchaine"
+msgstr "O Kiwi blockchaine"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Blok VDF iterácii"
 
 #: src/components/block/Block.jsx:336
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Blok s výškou {0} v Silicion blockchaine"
+msgstr "Blok s výškou {0} v Kiwi blockchaine"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,11 +310,11 @@ msgstr "Chatovať na KeyBase"
 
 #: src/electron/main.tsx:443
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Silicion Blockchain Wiki"
+msgstr "Kiwi Blockchain Wiki"
 
 #: src/electron/main.tsx:398
 msgid "Chia Forks Calculator"
@@ -322,7 +322,7 @@ msgstr ""
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Silicion peňaženka"
+msgstr "Kiwi peňaženka"
 
 #: src/electron/main.tsx:390
 msgid "ChiaHub"
@@ -707,7 +707,7 @@ msgstr "Upraviť"
 
 #: src/components/wallet/WalletImport.tsx:147
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Zadajte 24 slov, ktoré ste si uložili pre účely obnovenia vašej peňaženky Silicion."
+msgstr "Zadajte 24 slov, ktoré ste si uložili pre účely obnovenia vašej peňaženky Kiwi."
 
 #: src/components/farm/FarmerStatus.tsx:21
 #: src/components/farm/FarmerStatus.tsx:22
@@ -721,7 +721,7 @@ msgstr "Chyba"
 
 #: src/components/wallet/standard/WalletStandard.tsx:456
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Chyba: Silicion nie je možné odoslať na farebnú adresu. Zadajte prosím Silicion adresu."
+msgstr "Chyba: Kiwi nie je možné odoslať na farebnú adresu. Zadajte prosím Kiwi adresu."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"
@@ -1497,7 +1497,7 @@ msgstr "Polia, ktoré prešli filtrom"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Polia sú pridelené priestory na vašom pevnom disku používanom na ťažbu a zarábanie Silicion. <0>Ďalšie informácie</0>"
+msgstr "Polia sú pridelené priestory na vašom pevnom disku používanom na ťažbu a zarábanie Kiwi. <0>Ďalšie informácie</0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -1952,7 +1952,7 @@ msgstr "Dĺžka disponibilného intervalu (počet blokov)"
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
 msgid "Spending Limit (chia per interval): {0}"
-msgstr "Limit výdavkov (Silicion na interval): {0}"
+msgstr "Limit výdavkov (Kiwi na interval): {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:65
 #: src/components/stake/Stake.tsx:19
@@ -2150,7 +2150,7 @@ msgstr "Táto možnosť je dostupná iba z Electron aplikácie."
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Toto je množstvo Silicion, ktoré môžete v súčasnosti použiť na uskutočnenie transakcií. Nezahŕňa nespracované odmeny za ťažbu, nespracované prichádzajúce transakcie a Silicion, ktorú ste práve minuli, ale ešte nie je v blockchaine."
+msgstr "Toto je množstvo Kiwi, ktoré môžete v súčasnosti použiť na uskutočnenie transakcií. Nezahŕňa nespracované odmeny za ťažbu, nespracované prichádzajúce transakcie a Kiwi, ktorú ste práve minuli, ale ešte nie je v blockchaine."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2170,7 +2170,7 @@ msgstr "Toto je čas, kedy ťažiar vytvoril blok, a to ešte predtým, ako bol 
 
 #: src/components/wallet/card/WalletCardTotalBalance.tsx:34
 msgid "This is the total amount of chia in the blockchain at the current peak sub block that is controlled by your private keys. It includes frozen farming rewards, but not pending incoming and outgoing transactions."
-msgstr "Toto je celkové množstvo Silicion v blockchaine v aktuálne najnovšom čiastkovom bloku, ktorý je kontrolovaný vašimi súkromnými kľúčmi. Zahŕňa zmrazené odmeny za ťaženie, ale nie nespracované prichádzajúce a odchádzajúce transakcie."
+msgstr "Toto je celkové množstvo Kiwi v blockchaine v aktuálne najnovšom čiastkovom bloku, ktorý je kontrolovaný vašimi súkromnými kľúčmi. Zahŕňa zmrazené odmeny za ťaženie, ale nie nespracované prichádzajúce a odchádzajúce transakcie."
 
 #: src/components/wallet/card/WalletCardPendingTotalBalance.tsx:29
 msgid "This is the total balance + pending balance: it is what your balance will be after all pending transactions are confirmed."
@@ -2451,7 +2451,7 @@ msgstr "Chcete sa pripojiť k združeniu? Vytvorte NFT poľa"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:139
 msgid "Want to earn more Chia? Add more plots to your farm."
-msgstr "Chcete zarobiť viac Silicion? Pridajte na svoju farmu ďalšie polia."
+msgstr "Chcete zarobiť viac Kiwi? Pridajte na svoju farmu ďalšie polia."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:86
 msgid "Want to have a delay before the next plot starts?"
@@ -2479,7 +2479,7 @@ msgstr "Váha je celková pridaná obtiažnosť všetkých blokov až po tento b
 
 #: src/components/selectKey/SelectKey.tsx:141
 msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Vitajte v Silicion. Prosím prihláste sa s existujúcim kľúčom, alebo si vytvorte nový."
+msgstr "Vitajte v Kiwi. Prosím prihláste sa s existujúcim kľúčom, alebo si vytvorte nový."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"

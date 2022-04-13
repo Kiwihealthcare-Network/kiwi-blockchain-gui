@@ -24,7 +24,7 @@ msgstr "(Optional)"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "*Want to explore Silicion’s blocks further? Check out <0>Silicion Explorer</0> built by an open source developer."
+msgstr "*Want to explore Kiwi’s blocks further? Check out <0>Kiwi Explorer</0> built by an open source developer."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"

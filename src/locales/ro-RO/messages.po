@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "Vrei să explorezi blocurile Silicion mai mult? Verifică <0>Silicion Explorer</0> construit de către un dezvoltator open-source."
+msgstr "Vrei să explorezi blocurile Kiwi mai mult? Verifică <0>Kiwi Explorer</0> construit de către un dezvoltator open-source."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Un 'cultivator' este un serviciu care rulează pe o mașină care dețin
 #: src/electron/main.tsx:446
 #: src/electron/main.tsx:533
 msgid "About Chia Blockchain"
-msgstr "Despre blockchain-ul Silicion"
+msgstr "Despre blockchain-ul Kiwi"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Iterațiile VDF pentru bloc"
 
 #: src/components/block/Block.jsx:336
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Bloc la înălțimea {0} în blockchainul Silicion"
+msgstr "Bloc la înălțimea {0} în blockchainul Kiwi"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,11 +310,11 @@ msgstr "Discută pe KeyBase"
 
 #: src/electron/main.tsx:443
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Wiki Blockchain Silicion"
+msgstr "Wiki Blockchain Kiwi"
 
 #: src/electron/main.tsx:398
 msgid "Chia Forks Calculator"
@@ -322,7 +322,7 @@ msgstr ""
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Portofel Silicion"
+msgstr "Portofel Kiwi"
 
 #: src/electron/main.tsx:390
 msgid "ChiaHub"
@@ -707,7 +707,7 @@ msgstr "Editare"
 
 #: src/components/wallet/WalletImport.tsx:147
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Introduceti cele 24 de cuvinte din mnemmonic seed pe care le-ati salvat pentru a restaura portofelul dvs. Silicion."
+msgstr "Introduceti cele 24 de cuvinte din mnemmonic seed pe care le-ati salvat pentru a restaura portofelul dvs. Kiwi."
 
 #: src/components/farm/FarmerStatus.tsx:21
 #: src/components/farm/FarmerStatus.tsx:22
@@ -721,7 +721,7 @@ msgstr "Eroare"
 
 #: src/components/wallet/standard/WalletStandard.tsx:456
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Eroare: Nu se poate trimite Silicion la adresa colorată. Vă rugăm să introduceți o adresă Silicion."
+msgstr "Eroare: Nu se poate trimite Kiwi la adresa colorată. Vă rugăm să introduceți o adresă Kiwi."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"
@@ -1497,7 +1497,7 @@ msgstr "Parcele Filtrate"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Parcelele reprezintă spațiu alocat pe hard-disc, folosite pentru a cultiva și câștiga Silicion. <0>Află mai multe</0>"
+msgstr "Parcelele reprezintă spațiu alocat pe hard-disc, folosite pentru a cultiva și câștiga Kiwi. <0>Află mai multe</0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -1952,7 +1952,7 @@ msgstr "Lungimea intervalului pentru cheltuieli (număr de blocuri)"
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
 msgid "Spending Limit (chia per interval): {0}"
-msgstr "Limită de cheltuieli (Silicion per interval): {0}"
+msgstr "Limită de cheltuieli (Kiwi per interval): {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:65
 #: src/components/stake/Stake.tsx:19
@@ -2150,7 +2150,7 @@ msgstr "Aceasta facilitate este disponibila doar din GUI."
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Aceasta este suma de Silicion pe care o puteți utiliza în prezent pentru a efectua tranzacții. Nu include recompense în așteptare, tranzacții în așteptare și Silicion pe care tocmai le-ați cheltuit, dar care nu se află încă în blockchain."
+msgstr "Aceasta este suma de Kiwi pe care o puteți utiliza în prezent pentru a efectua tranzacții. Nu include recompense în așteptare, tranzacții în așteptare și Kiwi pe care tocmai le-ați cheltuit, dar care nu se află încă în blockchain."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2170,7 +2170,7 @@ msgstr "Acesta este momentul în care blocul a fost creat de fermier, care este 
 
 #: src/components/wallet/card/WalletCardTotalBalance.tsx:34
 msgid "This is the total amount of chia in the blockchain at the current peak sub block that is controlled by your private keys. It includes frozen farming rewards, but not pending incoming and outgoing transactions."
-msgstr "Aceasta este cantitatea totală de Silicion din blockchain la subblocul peak curent care este controlat de cheile dvs. private. Include recompense înghețate, dar nu tranzacții în așteptare de intrare și de ieșire."
+msgstr "Aceasta este cantitatea totală de Kiwi din blockchain la subblocul peak curent care este controlat de cheile dvs. private. Include recompense înghețate, dar nu tranzacții în așteptare de intrare și de ieșire."
 
 #: src/components/wallet/card/WalletCardPendingTotalBalance.tsx:29
 msgid "This is the total balance + pending balance: it is what your balance will be after all pending transactions are confirmed."
@@ -2451,7 +2451,7 @@ msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:139
 msgid "Want to earn more Chia? Add more plots to your farm."
-msgstr "Vrei să câștigi mai multe Silicion? Adaugă mai multe parcele la ferma ta."
+msgstr "Vrei să câștigi mai multe Kiwi? Adaugă mai multe parcele la ferma ta."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:86
 msgid "Want to have a delay before the next plot starts?"
@@ -2479,7 +2479,7 @@ msgstr "Greutatea este dificultatea totala adaugata a tuturor subblocurilor pân
 
 #: src/components/selectKey/SelectKey.tsx:141
 msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Bine ati venit la Silicion. Va rugam logati-va cu o cheie existenta, sau creati o noua cheie."
+msgstr "Bine ati venit la Kiwi. Va rugam logati-va cu o cheie existenta, sau creati o noua cheie."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
@@ -2643,7 +2643,7 @@ msgstr "{currencyCode} Răsplată Blocuri"
 
 #: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:29
 msgid "{currencyCode} Total Chia Farmed"
-msgstr "{currencyCode} Total Silicion cultivat"
+msgstr "{currencyCode} Total Kiwi cultivat"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"

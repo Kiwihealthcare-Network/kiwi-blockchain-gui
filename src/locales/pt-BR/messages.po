@@ -24,7 +24,7 @@ msgstr "(Opcional)"
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "Quer explorar os blocos de Silicion mais à fundo? Dê uma olhada no <0>Silicion Explorer</0> construído por um desenvolvedor de código aberto."
+msgstr "Quer explorar os blocos de Kiwi mais à fundo? Dê uma olhada no <0>Kiwi Explorer</0> construído por um desenvolvedor de código aberto."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Harvester é um serviço executado em uma máquina onde os plots estão 
 #: src/electron/main.tsx:446
 #: src/electron/main.tsx:533
 msgid "About Chia Blockchain"
-msgstr "Sobre Silicion Blockchain"
+msgstr "Sobre Kiwi Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Bloco VDF Iterações"
 
 #: src/components/block/Block.jsx:336
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Bloco na altura {0} na Silicion Blockchain"
+msgstr "Bloco na altura {0} na Kiwi Blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,11 +310,11 @@ msgstr "Chat no KeyBase"
 
 #: src/electron/main.tsx:443
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Wiki da Silicion Blockchain"
+msgstr "Wiki da Kiwi Blockchain"
 
 #: src/electron/main.tsx:398
 msgid "Chia Forks Calculator"
@@ -322,7 +322,7 @@ msgstr ""
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Carteira Silicion"
+msgstr "Carteira Kiwi"
 
 #: src/electron/main.tsx:390
 msgid "ChiaHub"
@@ -707,7 +707,7 @@ msgstr "Editar"
 
 #: src/components/wallet/WalletImport.tsx:147
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Digite o mnemônico de 24 palavras que você salvou para restaurar sua carteira Silicion."
+msgstr "Digite o mnemônico de 24 palavras que você salvou para restaurar sua carteira Kiwi."
 
 #: src/components/farm/FarmerStatus.tsx:21
 #: src/components/farm/FarmerStatus.tsx:22
@@ -721,7 +721,7 @@ msgstr "Erro"
 
 #: src/components/wallet/standard/WalletStandard.tsx:456
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Erro: Não é possível enviar Silicion para endereço colorido. Por favor, insira um endereço Silicion."
+msgstr "Erro: Não é possível enviar Kiwi para endereço colorido. Por favor, insira um endereço Kiwi."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"
@@ -1497,7 +1497,7 @@ msgstr "Lotes Aprovados no Filtro"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Os lotes usam o espaço alocado em seu disco rígido para cultivar e ganhar Silicion. <0> Saiba mais </0>"
+msgstr "Os lotes usam o espaço alocado em seu disco rígido para cultivar e ganhar Kiwi. <0> Saiba mais </0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -1952,7 +1952,7 @@ msgstr "Intervalo de gastos (número de blocos)"
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
 msgid "Spending Limit (chia per interval): {0}"
-msgstr "Limite de gastos (Silicion por intervalo): {0}"
+msgstr "Limite de gastos (Kiwi por intervalo): {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:65
 #: src/components/stake/Stake.tsx:19
@@ -2150,7 +2150,7 @@ msgstr "Este recurso está disponível apenas na GUI."
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Esta é a quantidade de Silicion que você pode usar atualmente para fazer transações. Não inclui recompensas agrícolas pendentes, transações recebidas pendentes e Silicion que você acabou de gastar, mas ainda não está no blockchain."
+msgstr "Esta é a quantidade de Kiwi que você pode usar atualmente para fazer transações. Não inclui recompensas agrícolas pendentes, transações recebidas pendentes e Kiwi que você acabou de gastar, mas ainda não está no blockchain."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2170,7 +2170,7 @@ msgstr "Este é o momento em que o bloco foi criado pelo fazendeiro, que é ante
 
 #: src/components/wallet/card/WalletCardTotalBalance.tsx:34
 msgid "This is the total amount of chia in the blockchain at the current peak sub block that is controlled by your private keys. It includes frozen farming rewards, but not pending incoming and outgoing transactions."
-msgstr "Essa é a quantidade total de Silicion na blockchain o pico do sub bloco atual que é controlado por suas chaves privadas. Inclui recompensas de fazendas congelada, mas não transações pendentes recebidas e enviadas."
+msgstr "Essa é a quantidade total de Kiwi na blockchain o pico do sub bloco atual que é controlado por suas chaves privadas. Inclui recompensas de fazendas congelada, mas não transações pendentes recebidas e enviadas."
 
 #: src/components/wallet/card/WalletCardPendingTotalBalance.tsx:29
 msgid "This is the total balance + pending balance: it is what your balance will be after all pending transactions are confirmed."
@@ -2216,7 +2216,7 @@ msgstr "Esta negociação foi incluída no blockchain nesta altura do bloco"
 
 #: src/components/app/AppTimeBombAlert.tsx:19
 msgid "This version of Chia is no longer compatible with the blockchain and can not safely farm."
-msgstr "Essa versão do Silicion não é mais compatível com a blockchain e não pode fazer um cultivo seguro."
+msgstr "Essa versão do Kiwi não é mais compatível com a blockchain e não pode fazer um cultivo seguro."
 
 #: src/components/fullNode/FullNode.jsx:92
 msgid "Time Created"
@@ -2451,7 +2451,7 @@ msgstr "Quer entrar em um bolão? Crie uma lote NFT"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:139
 msgid "Want to earn more Chia? Add more plots to your farm."
-msgstr "Quer ganhar mais Silicion? Adicione mais lotes à sua fazenda."
+msgstr "Quer ganhar mais Kiwi? Adicione mais lotes à sua fazenda."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:86
 msgid "Want to have a delay before the next plot starts?"
@@ -2479,7 +2479,7 @@ msgstr "O peso é a dificuldade total adicionada de todos os sub-blocos incluind
 
 #: src/components/selectKey/SelectKey.tsx:141
 msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Bem-vindo a Silicion. Faça login com uma chave existente ou crie uma nova chave."
+msgstr "Bem-vindo a Kiwi. Faça login com uma chave existente ou crie uma nova chave."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
@@ -2643,7 +2643,7 @@ msgstr "{currencyCode} Recompensas por bloco"
 
 #: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:29
 msgid "{currencyCode} Total Chia Farmed"
-msgstr "{currencyCode} Total de Silicion cultivada"
+msgstr "{currencyCode} Total de Kiwi cultivada"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"

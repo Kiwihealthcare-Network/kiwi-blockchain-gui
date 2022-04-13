@@ -2,7 +2,7 @@ import Big from 'big.js';
 
 const MOJO_PER_CHIA = Big(1000000);
 const BLOCKS_PER_YEAR = 1681920;
-const PREFARM = 10564560000 + 10564560000 + 14086080000 + 35215200000;
+const PREFARM = 10564560000 + 10564560000 + 14086080000 + 35215200000 + 0;
 
 export function calculatePoolReward(height: number): Big {
   if (height === 0) {

@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "* Bạn muốn khám phá thêm về Silicion Blockchain? Xem <0> Silicion Explorer </0> được xây dựng bởi các nhà phát triển nguồn mở."
+msgstr "* Bạn muốn khám phá thêm về Kiwi Blockchain? Xem <0> Kiwi Explorer </0> được xây dựng bởi các nhà phát triển nguồn mở."
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Harvester là một dịch vụ chạy trên một máy chứa các tệ
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
 msgid "About Chia Blockchain"
-msgstr "Về Silicion Blockchain"
+msgstr "Về Kiwi Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Khối VDF lặp lại"
 
 #: src/components/block/Block.jsx:338
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Khối tại height {0} trong Silicion blockchain"
+msgstr "Khối tại height {0} trong Kiwi blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,15 +310,15 @@ msgstr "Chat trên Keybase"
 
 #: src/electron/main.tsx:419
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Silicion Blockchain Wiki"
+msgstr "Kiwi Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Ví Silicion"
+msgstr "Ví Kiwi"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -687,7 +687,7 @@ msgstr "Chỉnh sửa"
 
 #: src/components/wallet/WalletImport.tsx:147
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "Nhập 24 từ ghi nhớ mà bạn đã lưu để khôi phục ví Silicion của bạn."
+msgstr "Nhập 24 từ ghi nhớ mà bạn đã lưu để khôi phục ví Kiwi của bạn."
 
 #: src/components/farm/FarmerStatus.tsx:21
 #: src/components/farm/FarmerStatus.tsx:22
@@ -701,7 +701,7 @@ msgstr "Lỗi"
 
 #: src/components/wallet/standard/WalletStandard.tsx:456
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Lỗi: Không thể gửi Silicion đến địa chỉ coloured. Vui lòng nhập địa chỉ Silicion."
+msgstr "Lỗi: Không thể gửi Kiwi đến địa chỉ coloured. Vui lòng nhập địa chỉ Kiwi."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"
@@ -1469,7 +1469,7 @@ msgstr "Plot đã lọc"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:28
 msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Plot được phân bổ không gian trên ổ cứng của bạn dùng để farm và thu về Silicion. <0> Tìm hiểu thêm </0>"
+msgstr "Plot được phân bổ không gian trên ổ cứng của bạn dùng để farm và thu về Kiwi. <0> Tìm hiểu thêm </0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -1906,7 +1906,7 @@ msgstr "Chi tiêu thời gian khoảng (số khối): {thời gian khoảng các
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
 msgid "Spending Limit (chia per interval): {0}"
-msgstr "Giới hạn Chi tiêu (Silicion cho mỗi khoảng thời gian): {0}"
+msgstr "Giới hạn Chi tiêu (Kiwi cho mỗi khoảng thời gian): {0}"
 
 #: src/components/fullNode/FullNode.jsx:100
 msgid "State"
@@ -2095,7 +2095,7 @@ msgstr "Tính năng này chỉ khả dụng trên GUI."
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Đây là số lượng Silicion mà bạn hiện có thể sử dụng để thực hiện các giao dịch. Nó không bao gồm phần thưởng farm đang chờ xử lý, các giao dịch đến đang chờ xử lý và Silicion mà bạn vừa chi tiêu nhưng chưa có trong blockchain."
+msgstr "Đây là số lượng Kiwi mà bạn hiện có thể sử dụng để thực hiện các giao dịch. Nó không bao gồm phần thưởng farm đang chờ xử lý, các giao dịch đến đang chờ xử lý và Kiwi mà bạn vừa chi tiêu nhưng chưa có trong blockchain."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2161,7 +2161,7 @@ msgstr "Giao dịch này đã được đưa vào blockchain ở chiều cao kh�
 
 #: src/components/app/AppTimeBombAlert.tsx:19
 msgid "This version of Chia is no longer compatible with the blockchain and can not safely farm."
-msgstr "Phiên bản Silicion này không còn tương thích với blockchain và không thể farm một cách an toàn."
+msgstr "Phiên bản Kiwi này không còn tương thích với blockchain và không thể farm một cách an toàn."
 
 #: src/components/fullNode/FullNode.jsx:92
 msgid "Time Created"
@@ -2397,7 +2397,7 @@ msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:133
 msgid "Want to earn more Chia? Add more plots to your farm."
-msgstr "Muốn thêm Silicion? Thêm nhiều plot vào farm của bạn."
+msgstr "Muốn thêm Kiwi? Thêm nhiều plot vào farm của bạn."
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:86
 msgid "Want to have a delay before the next plot starts?"
@@ -2413,7 +2413,7 @@ msgstr "Trọng lượng là tổng độ khó cộng thêm của tất cả cá
 
 #: src/components/selectKey/SelectKey.tsx:112
 msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Chào mừng đến với Silicion. Vui lòng đăng nhập bằng khóa hiện có hoặc tạo khóa mới."
+msgstr "Chào mừng đến với Kiwi. Vui lòng đăng nhập bằng khóa hiện có hoặc tạo khóa mới."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
@@ -2573,7 +2573,7 @@ msgstr "{currencyCode} phần thưởng khối"
 
 #: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:29
 msgid "{currencyCode} Total Chia Farmed"
-msgstr "{currencyCode} Tổng số Silicion thu được"
+msgstr "{currencyCode} Tổng số Kiwi thu được"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"

@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "*Oh hai! Want to exploar Silicion’z blokz furthr? Check out <0>Silicion Explorer</0> built by an open source deevelopr."
+msgstr "*Oh hai! Want to exploar Kiwi’z blokz furthr? Check out <0>Kiwi Explorer</0> built by an open source deevelopr."
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "A harvestr iz service runnin on machine wer plot(s) r akshully stord. Fa
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
 msgid "About Chia Blockchain"
-msgstr "Bout Silicion Blockchain"
+msgstr "Bout Kiwi Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Blok VDF iterationz"
 
 #: src/components/block/Block.jsx:338
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Blok at heite {0} in teh Silicion blockchain"
+msgstr "Blok at heite {0} in teh Kiwi blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,15 +310,15 @@ msgstr "Chat ON KeyBase"
 
 #: src/electron/main.tsx:419
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Silicion Blockchain Wiki"
+msgstr "Kiwi Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Silicion Walet"
+msgstr "Kiwi Walet"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"
@@ -687,7 +687,7 @@ msgstr "Edit"
 
 #: src/components/wallet/WalletImport.tsx:147
 msgid "Enter the 24 word mnemonic that you have saved in order to restore your Chia wallet."
-msgstr "intr teh 24 word mnemonic that u haz savd in ordr to reSTOAr uR Silicion walet."
+msgstr "intr teh 24 word mnemonic that u haz savd in ordr to reSTOAr uR Kiwi walet."
 
 #: src/components/farm/FarmerStatus.tsx:21
 #: src/components/farm/FarmerStatus.tsx:22
@@ -701,7 +701,7 @@ msgstr "Error"
 
 #: src/components/wallet/standard/WalletStandard.tsx:456
 msgid "Error: Cannot send chia to coloured address. Please enter a chia address."
-msgstr "Error: canNOT sen Silicion 2 colOrd addrez. Pleez intr Silicion addrez."
+msgstr "Error: canNOT sen Kiwi 2 colOrd addrez. Pleez intr Kiwi addrez."
 
 #: src/components/fullNode/card/FullNodeEstimatedNetworkSpace.tsx:20
 msgid "Estimated Network Space"

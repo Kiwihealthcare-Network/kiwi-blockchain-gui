@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "* Желиш да сазнаш више о Silicion блоковима? Провери <0>Silicion претраживач</0> који је настао од стране програмера отвореног кода."
+msgstr "* Желиш да сазнаш више о Kiwi блоковима? Провери <0>Kiwi претраживач</0> који је настао од стране програмера отвореног кода."
 
 #: src/components/plot/add/PlotAddNFT.tsx:123
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr "Сакупљач је услуга која ради на машини �
 #: src/electron/main.tsx:446
 #: src/electron/main.tsx:533
 msgid "About Chia Blockchain"
-msgstr "О Silicion блокчејну"
+msgstr "О Kiwi блокчејну"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -217,7 +217,7 @@ msgstr "Блок VDF понављања"
 
 #: src/components/block/Block.jsx:336
 msgid "Block at height {0} in the Chia blockchain"
-msgstr "Блок на висини {0} у Silicion блокчејну"
+msgstr "Блок на висини {0} у Kiwi блокчејну"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -310,11 +310,11 @@ msgstr "Разговарај на KeyBase-у"
 
 #: src/electron/main.tsx:443
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Вики за Silicion блокчејн"
+msgstr "Вики за Kiwi блокчејн"
 
 #: src/electron/main.tsx:398
 msgid "Chia Forks Calculator"
@@ -1497,7 +1497,7 @@ msgstr "Филтрирани плотови"
 
 #: src/components/plot/overview/PlotOverviewHero.tsx:35
 msgid "Plots are allocated space on your hard drive used to farm and earn Chia. <0>Learn more</0>"
-msgstr "Плотовима је додељен простор на твом хард-диску који се користи за фарму и Silicion зараду. <0> Сазнај више </0>"
+msgstr "Плотовима је додељен простор на твом хард-диску који се користи за фарму и Kiwi зараду. <0> Сазнај више </0>"
 
 #: src/components/plot/queue/PlotQueueIndicator.tsx:34
 msgid "Plotting"
@@ -1952,7 +1952,7 @@ msgstr "Дужина интервала трошења (број блокова)
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:401
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:448
 msgid "Spending Limit (chia per interval): {0}"
-msgstr "Ограничење потрошње (Silicion по интервалу): {0}"
+msgstr "Ограничење потрошње (Kiwi по интервалу): {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:65
 #: src/components/stake/Stake.tsx:19
@@ -2150,7 +2150,7 @@ msgstr "Ова опција је доступна само кроз корисн
 
 #: src/components/wallet/card/WalletCardSpendableBalance.tsx:26
 msgid "This is the amount of Chia that you can currently use to make transactions. It does not include pending farming rewards, pending incoming transactions, and Chia that you have just spent but is not yet in the blockchain."
-msgstr "Ово је количина Silicion коју тренутно можеш користити за обављање трансакција. Не укључује награде за фармање на чекању, долазне трансакције на чекању и Silicion која је управо потрошена, али још увек није на блокчејну."
+msgstr "Ово је количина Kiwi коју тренутно можеш користити за обављање трансакција. Не укључује награде за фармање на чекању, долазне трансакције на чекању и Kiwi која је управо потрошена, али још увек није на блокчејну."
 
 #: src/components/wallet/card/WalletCardPendingChange.tsx:26
 msgid "This is the pending change, which are change coins which you have sent to yourself, but have not been confirmed yet."
@@ -2170,7 +2170,7 @@ msgstr "Ово је време када је фармер креирао бло�
 
 #: src/components/wallet/card/WalletCardTotalBalance.tsx:34
 msgid "This is the total amount of chia in the blockchain at the current peak sub block that is controlled by your private keys. It includes frozen farming rewards, but not pending incoming and outgoing transactions."
-msgstr "Ово је укупна количина Silicion на блокчејну у тренутном блоку којим управљају твоји приватни кључеви. Укључује замрзнуте награде за фарамање, али не долазне и одлазне трансакције."
+msgstr "Ово је укупна количина Kiwi на блокчејну у тренутном блоку којим управљају твоји приватни кључеви. Укључује замрзнуте награде за фарамање, али не долазне и одлазне трансакције."
 
 #: src/components/wallet/card/WalletCardPendingTotalBalance.tsx:29
 msgid "This is the total balance + pending balance: it is what your balance will be after all pending transactions are confirmed."
@@ -2216,7 +2216,7 @@ msgstr "Ова трговина је укључена на блокчејну у
 
 #: src/components/app/AppTimeBombAlert.tsx:19
 msgid "This version of Chia is no longer compatible with the blockchain and can not safely farm."
-msgstr "Ова верзија Silicion није компатибилна са блокчејном и не може безбедно користити фарму."
+msgstr "Ова верзија Kiwi није компатибилна са блокчејном и не може безбедно користити фарму."
 
 #: src/components/fullNode/FullNode.jsx:92
 msgid "Time Created"
@@ -2479,7 +2479,7 @@ msgstr "Тежина је укупна додата сложеност свих 
 
 #: src/components/selectKey/SelectKey.tsx:141
 msgid "Welcome to Chia. Please log in with an existing key, or create a new key."
-msgstr "Добродошли у Silicion. Пријави се помоћу постојећег кључа или креирај нови кључ."
+msgstr "Добродошли у Kiwi. Пријави се помоћу постојећег кључа или креирај нови кључ."
 
 #: src/components/wallet/WalletAdd.tsx:66
 msgid "Welcome! The following words are used for your wallet backup. Without them, you will lose access to your wallet, keep them safe! Write down each word along with the order number next to them. (Order is important)"
@@ -2643,7 +2643,7 @@ msgstr "{currencyCode} награде од блокова"
 
 #: src/components/farm/card/FarmCardTotalChiaFarmed.tsx:29
 msgid "{currencyCode} Total Chia Farmed"
-msgstr "{currencyCode} укупно Silicion са фарме"
+msgstr "{currencyCode} укупно Kiwi са фарме"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"

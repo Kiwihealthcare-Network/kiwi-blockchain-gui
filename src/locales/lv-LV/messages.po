@@ -23,7 +23,7 @@ msgid "(Optional)"
 msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
-msgid "*Want to explore Silicion’s blocks further? Check out <0>Silicion Explorer</0> built by an open source developer."
+msgid "*Want to explore Kiwi’s blocks further? Check out <0>Kiwi Explorer</0> built by an open source developer."
 msgstr ""
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
@@ -45,7 +45,7 @@ msgstr ""
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
 msgid "About Chia Blockchain"
-msgstr "Par Silicion Blokķēdi"
+msgstr "Par Kiwi Blokķēdi"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -310,7 +310,7 @@ msgstr ""
 
 #: src/electron/main.tsx:419
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"

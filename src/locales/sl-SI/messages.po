@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore Chia’s blocks further? Check out <0>Chia Explorer</0> built by an open source developer."
-msgstr "*Želite raziskovati Silicion bloke? Preverite odprtokodni <0>Silicion Explorer</0>."
+msgstr "*Želite raziskovati Kiwi bloke? Preverite odprtokodni <0>Kiwi Explorer</0>."
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
 msgid "+ Add New Plot NFT"
@@ -45,7 +45,7 @@ msgstr ""
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
 msgid "About Chia Blockchain"
-msgstr "O Silicion"
+msgstr "O Kiwi"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -310,15 +310,15 @@ msgstr "Klepet na KeyBase"
 
 #: src/electron/main.tsx:419
 msgid "Chia"
-msgstr "Silicion"
+msgstr "Kiwi"
 
 #: src/electron/main.tsx:358
 msgid "Chia Blockchain Wiki"
-msgstr "Silicion blockchain wiki"
+msgstr "Kiwi blockchain wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:647
 msgid "Chia Wallet"
-msgstr "Silicion denarnica"
+msgstr "Kiwi denarnica"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:36
 msgid "Choose Number of Plots"

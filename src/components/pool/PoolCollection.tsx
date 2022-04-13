@@ -139,7 +139,7 @@ export default function PoolCollection() {
     <Flex flexDirection="column" gap={3}>
 
       <Typography variant="body1" color="textSecondary">
-        Enter your chia pool contract address and NFT Launcher ID to recover the missing tKIK from your plot NFT.
+        Enter your chia pool contract address and NFT Launcher ID to recover the missing KIK from your plot NFT.
       </Typography>
 
       <Form methods={methods} onSubmit={handleSearch}>
